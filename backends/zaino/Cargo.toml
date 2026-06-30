@@ -91,6 +91,7 @@ zcash_keys = { git = "https://github.com/zcash/librustzcash.git", rev = "29c7fb2
 zcash_primitives = { git = "https://github.com/zcash/librustzcash.git", rev = "29c7fb28889a69df15b44fc9465cf4a464f766e9" }
 zcash_proofs = { git = "https://github.com/zcash/librustzcash.git", rev = "29c7fb28889a69df15b44fc9465cf4a464f766e9" }
 zcash_protocol = { git = "https://github.com/zcash/librustzcash.git", rev = "29c7fb28889a69df15b44fc9465cf4a464f766e9" }
+pczt = { git = "https://github.com/zcash/librustzcash.git", rev = "29c7fb28889a69df15b44fc9465cf4a464f766e9" }
 
 
 # Replicated from librustzcash b43a4237's own [patch.crates-io]: main librustzcash is
